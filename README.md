@@ -41,7 +41,8 @@ This repository contains a Python-based web scraper designed to extract product 
      - cd your-repository-name
 
 - 2. Install the required Python libraries:
-     - pip install selenium beautifulsoup4
+     - pip install selenium
+     - pip install beautifulsoup4
    
 
 - 3. Ensure you have the appropriate Selenium WebDriver for your browser (e.g., ChromeDriver for Chrome). The script assumes chromedriver is in your system's PATH.
