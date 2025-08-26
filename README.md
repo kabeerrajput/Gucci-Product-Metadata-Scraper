@@ -37,8 +37,8 @@ This repository contains a Python-based web scraper designed to extract product 
 
 ## Installation
 - 1. Clone this repository:
-     - git clone https://github.com/your-username/your-repository-name.git
-     - cd your-repository-name
+     - git clone https://github.com/kabeerrajput/Gucci-Product-Metadata-Scraper.git
+     - cd Gucci-Product-Metadata-Scraper
 
 - 2. Install the required Python libraries:
      - pip install selenium
